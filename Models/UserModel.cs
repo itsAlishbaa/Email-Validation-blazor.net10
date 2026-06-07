@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace BlazorApp.Models
+namespace q2.Models
 {
     public class UserModel
     {
